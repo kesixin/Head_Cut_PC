@@ -1,2 +1,8 @@
-# Head_Cut_PC
- cropper头像裁剪（PC端）
+# cropper头像裁剪（PC端）
+
+#### 案例是参考cropper站点实例，进行修改简化。
+
+实现效果：
+
+!()[]
+ 
